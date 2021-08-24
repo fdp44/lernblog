@@ -1,10 +1,10 @@
 +++
-title = "Fdp44 forlife"
+title = "WEB-Experiment Tilo"
 draft = false
-image = ""
+image = "bild_blog.jpg"
 description = "44"
 +++
-![44](bmw "44")
+![44](bild_blog.jpg "44")
 
 ## Vorname Nachname
 
