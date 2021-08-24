@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Til Scheidegger"
-description = "WEB-Designe"
-footerLeft = "\\#single-malt-whiskey-zigarre"
+description = "Designe "
+footerLeft = "Whisky-Zigarre"
 footerRight = "44"
 +++
