@@ -2,6 +2,6 @@
 headless = true
 icon = ""
 logo = ""
-image = "/media/bild.blog2.jpg"
+image = "/media/bildblog3.jpg"
 color = ""
 +++
