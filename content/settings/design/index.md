@@ -2,7 +2,6 @@
 headless = true
 icon = ""
 logo = ""
-image = ""
+image = "/media/bild_blog.jpg"
 color = ""
 +++
-
