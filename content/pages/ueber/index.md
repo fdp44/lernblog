@@ -11,4 +11,4 @@ footnotes = "Swiss Whiskey"
 
 til.schheidegger@bwdbern.ch
 
-Beschreibung, wer ich bin...
+Lernender der Wirtschaftsmittelschule Bern
