@@ -6,8 +6,8 @@ description = "44"
 +++
 ![44](bild_blog.jpg "44")
 
-## Vorname Nachname
+## Til Scheidegger
 
-info@lernblog.ch
+til.schheidegger@bwdbern.ch
 
 Beschreibung, wer ich bin...
